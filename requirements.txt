@@ -1,0 +1,14 @@
+torch
+torchvision
+numpy
+nibabel
+pillow
+matplotlib
+scikit-learn
+pandas
+tqdm
+ftfy
+regex
+diffusers
+transformers
+accelerate
